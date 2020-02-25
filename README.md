@@ -1,6 +1,6 @@
 # Pymyransom
 
-## New in v0.4
+## New in v0.4.1
 Updated description
 
 ## Before Introducing
